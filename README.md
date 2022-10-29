@@ -1,4 +1,4 @@
-# SFCERT
+# PRIVKI
 
 privki is a PKI Initialization & Certs creation toolset.
 you can use it for the following:
