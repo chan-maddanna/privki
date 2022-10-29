@@ -218,10 +218,9 @@ For more options, please use --help flag after any specific subcommand.
 
 ## License
 
-The contents of this repository is licensed under the MS-RSL license.
-Copyright © 2020, sample_org Cloud Corporation.
+Apache 2.0 License
 
-For more detail please refer to accompanying LICENSE.md file
+For more detail please refer to accompanying LICENSE file
 
 ## TODO
 * Implement utility wide, global --silent mode 
